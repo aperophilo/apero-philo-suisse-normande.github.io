@@ -189,7 +189,7 @@ Et, maintenant qu'est-ce qu'on fait ?  A vous tous la parole, les
 
 -  [projections de population de l'ONU](https://www.un.org/fr/sections/issues-depth/population/index.html)
 
--  [GIEC](/ataraxy/documents/sroc-press-release-fr.pdf)
+-  [GIEC](/documents/sroc-press-release-fr.pdf)
 
 - [Energie et climat : quelles interactions avec l’agriculture ?](https://www.youtube.com/watch?v=j48hBShnfB0&feature=push-fr&attr_tag=At2KTvHkC8lEfWdm%3A6)
 
@@ -197,4 +197,4 @@ Et, maintenant qu'est-ce qu'on fait ?  A vous tous la parole, les
 
 ## La presse en parle
 
-- [Article Ouest France](/ataraxy/documents/ouest-france-quai-harcourt.pdf)
+- [Article Ouest France](/documents/ouest-france-quai-harcourt.pdf)
