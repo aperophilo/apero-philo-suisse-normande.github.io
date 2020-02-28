@@ -198,4 +198,4 @@ Et, maintenant qu'est-ce qu'on fait ?  A vous tous la parole, les
 ## La presse en parle
 
 - [Article Ouest France](/ataraxy/documents/ouest-france-quai-harcourt.pdf)
-- **apéro philo ouest france**
+
