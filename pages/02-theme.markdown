@@ -10,6 +10,9 @@ permalink: /theme/
     - [L'effondrement de notre civilisation, par Yves Cochet](https://www.youtube.com/watch?v=3NCrj_fa2hU)
   - Transition énergétique
     - [Jean-Marc Jancovici: CO2 ou PIB, il faut choisir](https://www.youtube.com/watch?v=Vjkq8V5rVy0)
+    - [L’énergie pour les nuls](https://www.youtube.com/watch?v=IaQ-U-dP_7M)
+  - Courants transocéaniques et climat
+    - [Gulf Stream, le talon d’Achille du climat  (documentaire de FR3-Thalassa)](https://www.youtube.com/watch?v=CIJJ4X0cv94)  
   
 
 - Expérience municipales
