@@ -1,0 +1,47 @@
+---
+layout: default
+lang: fr
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+    </p>
+    {%- if page.theme -%}
+    <!-- <p class="post-meta" itemscope itemtype="https://shema.org/Event">
+      Rendez-vous: 
+      <span itemprop="startDate">{% include date.html date=page.startDate -%}</span>
+      &mdash;
+      <span itemprop="location" itemscope itemtype="https://schema.org/Place">
+        <span itemprop="name">{{ page.place }}</span>
+        &mdash; <span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+          {% if page.address -%}
+          <span itemprop="streetAddress">{{ page.address }}</span>,
+          {% endif -%}
+          <span itemprop="postalCode">{{ page.postalCode }}</span>
+          <span itemprop="addressLocality">{{ page.town }}</span>
+        </span>
+      </span>
+    </p> -->
+    {%- endif -%}
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+  {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

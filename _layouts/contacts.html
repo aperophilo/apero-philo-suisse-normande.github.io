@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+<div >
+    {%- for member in site.members -%}
+
+    {% if member.picture %}
+    <img src="{{ member.picture | relative_url }}" class="picture"/>
+    {% else %}
+    <img src="https://eu.ui-avatars.com/api/?name={{ member.firstname }}+{{ member.lastname}}" class="logo" />
+    {% endif %}
+    <div style="position: relative; top: 10px; padding-bottom: 20px;">
+        <h3 style="padding-bottom: 10px">{{ member.firstname }} {{ member.lastname}}</h3>
+        <div style="">
+            <p>
+                Email: <a href="mailto:{{member.email}}">{{member.email}}</a><br />
+                Téléphone: {{member.phone}}<br />
+            </p>
+            <p>{{ member.content }}</p>
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
+<!-- position: relative; left: 60px; -->

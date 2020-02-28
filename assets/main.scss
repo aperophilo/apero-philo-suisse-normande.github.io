@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+
+.logo {
+    float: left;
+    width: 50px;
+    margin: 5px;
+}
+
+.picture {
+    float: right;
+    width: 150px;
+    margin: 5px;
+}
+
+@import "minima";

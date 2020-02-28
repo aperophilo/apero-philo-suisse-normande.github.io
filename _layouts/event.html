@@ -1,0 +1,30 @@
+---
+layout: page
+lang: fr
+---
+<ul class="post-list">
+  {{ site.events.length }}
+
+  {% assign mid = site.events | sort: "eventdate" %}
+  {% assign events = mid | reverse %}
+  {% for item in events %}
+
+  <li future-date="{{ item.eventdate | date: '%Y-%m-%d' }}">
+  
+  
+    <span class="post-meta" itemprop="startDate" itemscope
+    itemtype="https://shema.org/Event">{% include date.html date=item.eventdate -%}</span>
+    <a class="post-link" href="{{ item.url | relative_url }}">
+      <h3 itemscope itemprop="name">{{ item.theme }}</h3>
+    </a>
+    <span itemprop="name">{{ item.place }}</span>
+    • <span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+      <!-- <span itemprop="postalCode" >{{ page.postalCode }}</span> -->
+      <span itemprop="addressLocality">{{ item.town }}</span>
+      <div itemprop="location" itemscope itemtype="https://schema.org/Place">
+        <!-- <div itemprop="description" >{{ item.content | markdownify }}</div> -->
+    </span>
+  </li>
+  {% endfor %}
+
+</ul>
