@@ -2,7 +2,7 @@
 layout: page
 title: Alain
 
-picture: documents/photoAlain.png
+picture: documents/alain.png
 firstname: Alain
 lastname: Aznar
 phone: 06 78 92 82 63
