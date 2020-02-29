@@ -9,10 +9,6 @@ email: alainaznar@hotmail.com
 ---
 
    marié 3 enfants
-   62 ans, retaité
-   cadre de la protection de l’enfance, habitant Clécy 
-   petit paysan par passion, élève chevaux, ânes et basse cour sur Clécy et Culey le Patry où il restaure une vieille ferme et un vieux  
-   moulin
-   Il s'investit dans plusieurs associations locales
-   (association d’insertion, de protection du patrimoine, de production de spectacles, de 
-   permaculture, d’accueil de migrants)
+   62 ans, il est retaité cadre de la protection de l’enfance, habitant de Clécy 
+   Petit paysan par passion, il élève chevaux, ânes et basse cour sur Clécy et Culey le Patry où il restaure une vieille ferme et un vieux moulin
+   Il milite pour une meilleure expression des initiatives et des talents de tous avec un plus grand partage des idées et réalisations et il s'investit notamment dans plusieurs associations locales (associations d’insertion, de protection du patrimoine, de production de spectacles, de permaculture, d’accueil de migrants, ...)
