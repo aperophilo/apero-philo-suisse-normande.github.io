@@ -33,3 +33,8 @@ Afin de préparer cet apéro-philo, nous vous conseillons de prendre connaissanc
 
 Avec en particulier une incitation à consulter sur ce site la rubrique « qui sommes-nous ? » à savoir un groupe de citoyens souhaitant aider les élus des communes rurales à passer un cap qui s’annonce difficile pour elles en tant que structure et pour leur population en diffusant notamment des exemples de communes ayant mis en œuvre des solutions d’autonomie et de résilience à long terme.
 
+#### 5. Sur le terrain : A la recherche des cahier de doléances - C Politique, la suite - 02/02/20
+
+{% include youtube.html id="BXHH8K3YeAk"%}
+
+
