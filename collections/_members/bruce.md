@@ -2,7 +2,7 @@
 layout: page
 title: Bruce
 
-picture: documents/bruce.jpg
+picture: documents/bruce1.png
 firstname: Bruce
 lastname: Dévernois
 phone: 06 09 76 39 85
