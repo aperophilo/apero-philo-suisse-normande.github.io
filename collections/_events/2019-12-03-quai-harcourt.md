@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Ca se réchauffe&nbsp;!<br />Et maintenant, on fait quoi&nbsp??
+title: Ça se réchauffe&nbsp;!<br />Et maintenant, on fait quoi&nbsp??
 
-theme: Ca se réchauffe ! Et maintenant, on fait quoi ??
+theme: Ça se réchauffe ! Et maintenant, on fait quoi ??
 
 eventdate: 2019-12-03T19:00:00+0200
 town: Thury Harcourt
