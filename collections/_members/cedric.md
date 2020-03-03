@@ -3,6 +3,7 @@ layout: page
 
 firstname: Cédric
 lastname: Blot
+email: blotcedric50@gmail.com
 picture: documents/cedric.jpg
 ---
 
