@@ -25,7 +25,11 @@
     color: $grey-color-dark;
   }
 }
-
+.modeemploi {
+  display: inline;
+  padding: 5px;
+  background-color: lighten(indigo, 60%);
+}
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;

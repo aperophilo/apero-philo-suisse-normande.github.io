@@ -4,13 +4,29 @@
 
 layout: page
 lang: fr
+
+poster: documents/affiche-menuiserie.jpg
+poster-link: documents/affiche-menuiserie.pdf
 ---
 
 #### Prochain apéro-philo
 
-17 mars 2010 à 19h à La Menuiserie de Clécy 
+<div class="modeemploi">
+<a href="/calendar" >
+Apéro-philo mode d'emploi
+</a>
+</div>
 
-[Apéro-philo mode d'emploi](/calendar)
+<br />
+<div style="text-align: left">
+<a href="{{page.poster-link}}">
+    <img src="{{page.poster}}" style="width: 200px;" />
+</a>
+<br />
+
+<br />
+17 mars 2010 à 19h à La Menuiserie de Clécy 
+</div>
 
 <span style="display: block; width: 100%; border-bottom: 2px solid #dfdfdf" >
 &nbsp;
