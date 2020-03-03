@@ -9,6 +9,7 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  background-color: $background-color;
 }
 
 .site-title {
@@ -118,6 +119,7 @@
 .site-footer {
   border-top: 1px solid #BB761D; //$grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $background-color;
 }
 
 .footer-heading {
@@ -186,6 +188,7 @@
  * Page content
  */
 .page-content {
+  background-color: $background-color;
   padding: $spacing-unit 0;
   flex: 1;
 }

@@ -16,7 +16,7 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
-  background-color: $background-color;
+  
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -26,6 +26,8 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background-image: url(/documents/paysage2.jpg);
+  background-color: #ffffffaf;
 }
 
 
@@ -175,6 +177,7 @@ pre {
  * Wrapper
  */
 .wrapper {
+  
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
