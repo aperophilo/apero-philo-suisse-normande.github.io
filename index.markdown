@@ -8,11 +8,14 @@ lang: fr
 
 #### Prochain apéro-philo
 
-17 mars 2010 à 19h à La Menuiserie de Clécy
+17 mars 2010 à 19h à La Menuiserie de Clécy 
 
-<span style="display: block; width: 100%; border-bottom: 1px solid #dfdfdf" >
+[Apéro-philo mode d'emploi](/calendar)
+
+<span style="display: block; width: 100%; border-bottom: 2px solid #dfdfdf" >
 &nbsp;
 </span>
+
 
 #### Nos valeurs
 
