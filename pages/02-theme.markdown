@@ -29,9 +29,9 @@ permalink: /theme/
   - Comment construire le lien qui permet de vivre en société
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
     
-- Croissance    
-  - L'impact du coronavirus sur la croissance 
-(Résumé du rapport de l’OCDE du 2 mars 2020)
+- Croissance et Pollution    
+  - L'impact du coronavirus entraînant une baisse de la croissance mondiale, l'émission de gazs à effet de serre diminue avec une baisse de la pollution visible notamment en Chine. Si les économies redémarrent après le coronavirus, avec elles se renforcera à nouveau le réchauffement climatique... 
+(Résumé du rapport de l’OCDE sur la croissance mondiale du 2 mars 2020)
 
 L’épidémie de coronavirus (COVID-19) a déjà été la cause de souffrances humaines considérables et de perturbations économiques majeures. La contraction de la production en Chine a eu des effets dans le monde entier, témoignant de l’importance croissante de la Chine dans les chaînes d’approvisionnement mondiales et sur les marchés de produits de base. 
 Dans les autres économies, la diffusion du virus a eu des effets similaires, mais de moindre ampleur jusqu’à présent. Les perspectives de croissance demeurent très incertaines : 
