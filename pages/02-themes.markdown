@@ -6,7 +6,7 @@ permalink: /themes/
 
 - Changement climatique
   - Effondrement
-    - [Edouard Philippe et Nicolas Hulot parlent d'effondrement](https://www.youtube.com/watch?v=j4esYh9WWwY)
+    - [Edouard Philippe et Nicolas Hulot parlent d'effondrement](https://www.facebook.com/EdouardPhilippePM/videos/2358428757717123/)
     - [L'effondrement de notre civilisation, par Yves Cochet](https://www.youtube.com/watch?v=3NCrj_fa2hU)
   - Transition énergétique
     - [Jean-Marc Jancovici: CO2 ou PIB, il faut choisir](https://www.youtube.com/watch?v=Vjkq8V5rVy0)
