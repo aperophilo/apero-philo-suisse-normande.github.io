@@ -92,7 +92,7 @@ majeur lorsque l'on sait que la quantité de CO2 piégée dans le permafrost
 équivaut à quatre fois celle que les activités humaines ont émise depuis
 le milieu du XIXe siècle, sans compter la libération de méthane (CH4) ainsi 
 que de nombreux virus et bactéries des temps anciens piégés dans ces 
-glaces... Donc, au fond, la montée de bien plus de 3° de la température
+glaces... Donc, notamment, la montée de bien plus de 3° de la température
 moyenne mondiale d'ici la fin du présent siècle est quasiment acquise...
 
 Je vous laisse imaginer ce que voudrait dire un arrêt de la croissance
