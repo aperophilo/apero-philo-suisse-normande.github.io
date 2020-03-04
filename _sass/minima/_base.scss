@@ -31,6 +31,10 @@ body {
   background-attachment: fixed;
   background-position: bottom;
   background-size: cover;
+  @include media-query($on-palm) {
+    background-image: unset;
+    background-color: #6c98cb;
+  }
   //background-color: #6c98cb;
 }
 
