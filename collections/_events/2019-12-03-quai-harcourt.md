@@ -86,6 +86,15 @@ pays tout nucléaire à tort, il est à peu près certain maintenant, sauf
 arrêt quasiment complet de la croissance basée sur la consommation
 d'énergie, que l'on va dans le mur le pied à fond sur l'accélérateur.
 
+De plus, le réchauffement climatique va entraîner le dégel accéléré du 
+permafrost, rempli de matières organiques et végétales. Un problème 
+majeur lorsque l'on sait que la quantité de CO2 piégée dans le permafrost
+équivaut à quatre fois celle que les activités humaines ont émise depuis
+le milieu du XIXe siècle, sans compter la libération de nombreux virus
+et bactéries des temps anciens piégés dans ces glaces... Donc, au fond,
+la montée de bien plus de 3° de la température moyenne mondiale est 
+quasiment acquise...
+
 Je vous laisse imaginer ce que voudrait dire un arrêt de la croissance
 alors même que de simples ralentissements ont déjà entraîné la
 multiplication des révoltes type printemps arabes, Brexit, gilets jaunes
