@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Les Thèmes
-permalink: /theme/
+permalink: /themes/
 ---
 
 - Changement climatique

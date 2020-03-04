@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Pour cela, merci d'utiliser l'adress e-email ou la page facebook.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://apero-philo-suisse-normande.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 show_excerpts: true

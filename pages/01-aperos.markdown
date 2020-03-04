@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Les Apéros
-permalink: /calendar/
+permalink: /aperos/
 ---
 
 ### Mode d'emploi

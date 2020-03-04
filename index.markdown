@@ -12,7 +12,7 @@ poster-link: documents/affiche-menuiserie.pdf
 #### Prochain apéro-philo
 
 <div class="modeemploi">
-<a href="/calendar" >
+<a href="/aperos" >
 Apéro-philo mode d'emploi
 </a>
 </div>
