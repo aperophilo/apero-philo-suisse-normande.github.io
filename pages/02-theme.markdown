@@ -31,9 +31,9 @@ permalink: /theme/
     
 - Croissance    
   - L'impact du coronavirus sur la croissance
-    - {CORONAVIRUS : L'ÉCONOMIE MONDIALE MENACÉE}  
 
-(Résumé du rapport de l’OCDE du 2 mars 2020 :
+CORONAVIRUS : L'ÉCONOMIE MONDIALE MENACÉE  
+(Résumé du rapport de l’OCDE du 2 mars 2020)
 
 L’épidémie de coronavirus (COVID-19) a déjà été la cause de souffrances humaines considérables et de perturbations économiques majeures. La contraction de la production en Chine a eu des effets dans le monde entier, témoignant de l’importance croissante de la Chine dans les chaînes d’approvisionnement mondiales et sur les marchés de produits de base. 
 Dans les autres économies, la diffusion du virus a eu des effets similaires, mais de moindre ampleur jusqu’à présent. Les perspectives de croissance demeurent très incertaines : 
@@ -54,5 +54,5 @@ Dans les autres économies, la diffusion du virus a eu des effets similaires, ma
 
 • Des politiques macroéconomiques de soutien à l’activité peuvent favoriser le rétablissement de la confiance et le redressement de la demande lorsque l’épidémie s’apaisera, mais elles ne peuvent compenser les perturbations immédiates résultant des fermetures forcées d’entreprises et des restrictions aux déplacements.
  
-• Si les risques baissiers se matérialisent et si la croissance doit être beaucoup plus faible pendant une période prolongée, une action coordonnée des gouvernements du G20 et au-delà serait le moyen le plus efficace de restaurer la confiance, en assurant la mise en place de politiques de santé, de mesures de confinement et d’atténuation efficaces, en apportant un soutien aux économies à faible revenu, et en envoyant de manière concertée, un engagement à accroître les dépenses publiques nécessaires.)
+• Si les risques baissiers se matérialisent et si la croissance doit être beaucoup plus faible pendant une période prolongée, une action coordonnée des gouvernements du G20 et au-delà serait le moyen le plus efficace de restaurer la confiance, en assurant la mise en place de politiques de santé, de mesures de confinement et d’atténuation efficaces, en apportant un soutien aux économies à faible revenu, et en envoyant de manière concertée, un engagement à accroître les dépenses publiques nécessaires.
 
