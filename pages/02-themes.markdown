@@ -32,4 +32,4 @@ permalink: /themes/
     
 - Croissance et pollution 
   - La pandémie du coronavirus va faire baisser temporairement la croissance mondiale. Du coup, les émissions de gaz à effet de serre vont diminuer. L'effet est spectaculaire sur la pollution chinoise. Mais au fur et à mesure que la pandémie sera maîtrisée, les émissions vont repartir à la hausse et finalement l'impact sur le changement climatique comme celui sur la pollution ne seront que de peu d'effet à moyen terme...
-  - [Rapport de l'OCDE sur la croissance mondiale du 2 mars 2020](./ocde-croissance.html)
+    - [Rapport de l'OCDE sur la croissance mondiale du 2 mars 2020](./ocde-croissance.html)
