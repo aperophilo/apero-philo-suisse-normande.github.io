@@ -40,4 +40,4 @@ Avec en particulier une incitation à consulter sur ce site la rubrique « qui s
 
 #### 6. Consulter les thèmes suivant
 
-Voir aussi les [expérience municipales](/themes).
+Voir aussi la [démocratie participative](/themes) et les [expériences municipales](/themes).
