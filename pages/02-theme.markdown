@@ -30,9 +30,7 @@ permalink: /theme/
     - [Matthieu Ricard et Jacques Attali sur l'altruisme](https://www.youtube.com/watch?v=cmMcNIVMkZU)
     
 - Croissance    
-  - L'impact du coronavirus sur la croissance
-
-CORONAVIRUS : L'ÉCONOMIE MONDIALE MENACÉE  
+  - L'impact du coronavirus sur la croissance 
 (Résumé du rapport de l’OCDE du 2 mars 2020)
 
 L’épidémie de coronavirus (COVID-19) a déjà été la cause de souffrances humaines considérables et de perturbations économiques majeures. La contraction de la production en Chine a eu des effets dans le monde entier, témoignant de l’importance croissante de la Chine dans les chaînes d’approvisionnement mondiales et sur les marchés de produits de base. 
