@@ -24,12 +24,28 @@ body {
           font-feature-settings: "kern" 1;
   font-kerning: normal;
   display: flex;
-  min-height: 100vh;
+  //min-height: 1200px;
   flex-direction: column;
-  background-image: url(/documents/paysage2.jpg);
-  background-color: #ffffffaf;
+  background-image: url(/documents/paysage3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom;
+  background-size: cover;
+  //background-color: #6c98cb;
 }
 
+// body:after {
+//   content: "";
+//   position: absolute;    
+//   z-index: -1;
+//   top: 1566px;
+//   left:0;
+//   right:0;
+//   //bottom: 0;
+//   height: 1566px;
+//   background: url(/documents/paysage2.jpg) no-repeat;
+//   background-color: #ffffffaf;
+// }
 
 
 /**
