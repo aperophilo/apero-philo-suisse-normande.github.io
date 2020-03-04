@@ -67,7 +67,7 @@ Autre sujet, c'est que nous sommes des animaux qui fonctionnont avec nos
 sens et donc nous essayons et nous arrêtons si ça ne colle pas. Sauf que
 dans le changement climatique il n'y a pas de bouton reset : on ne peut
 pas arrêter si ça ne colle pas. Nous ne nous rendons pas compte non plus
-ce que ça fait 5 ° en moyenne de réchauffement climatique d'ici la fin
+ce que ça fait 5° en moyenne de réchauffement climatique d'ici la fin
 du siècle, ce qui est aujourd'hui probable, le dernier rapport du GIEC
 parlant maintenant suivant les modèles utilisés d'un réchauffement de 3
 à 7° d'ici 2100.
@@ -90,10 +90,10 @@ De plus, le réchauffement climatique va entraîner le dégel accéléré du
 permafrost, rempli de matières organiques et végétales. Un problème 
 majeur lorsque l'on sait que la quantité de CO2 piégée dans le permafrost
 équivaut à quatre fois celle que les activités humaines ont émise depuis
-le milieu du XIXe siècle, sans compter la libération de nombreux virus
-et bactéries des temps anciens piégés dans ces glaces... Donc, au fond,
-la montée de bien plus de 3° de la température moyenne mondiale est 
-quasiment acquise...
+le milieu du XIXe siècle, sans compter la libération de méthane (CH4) ainsi 
+que de nombreux virus et bactéries des temps anciens piégés dans ces 
+glaces... Donc, au fond, la montée de bien plus de 3° de la température
+moyenne mondiale d'ici la fin du présent siècle est quasiment acquise...
 
 Je vous laisse imaginer ce que voudrait dire un arrêt de la croissance
 alors même que de simples ralentissements ont déjà entraîné la
