@@ -38,6 +38,6 @@ Avec en particulier une incitation à consulter sur ce site la rubrique « qui s
 {% include youtube.html id="BXHH8K3YeAk"%}
 
 
-#### 6. Consulter les thèmes suivant
+#### 6. Consulter les thèmes suivants :
 
 Voir aussi la [démocratie participative](/themes) et les [expériences municipales](/themes).
