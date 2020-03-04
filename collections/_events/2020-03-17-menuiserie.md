@@ -38,3 +38,6 @@ Avec en particulier une incitation à consulter sur ce site la rubrique « qui s
 {% include youtube.html id="BXHH8K3YeAk"%}
 
 
+#### 6. Consulter les thèmes suivant
+
+Voir aussi les [expérience municipales](/themes).

@@ -12,24 +12,23 @@ poster-link: documents/affiche-menuiserie.pdf
 #### Prochain apéro-philo
 
 <div class="modeemploi">
-<a href="/aperos" >
-Apéro-philo mode d'emploi
-</a>
+    <a href="/aperos" >
+        Apéro-philo mode d'emploi
+    </a>
 </div>
 
 <br />
 <div style="text-align: left">
-<a href="{{page.poster-link}}">
-    <img src="{{page.poster}}" style="width: 200px;" />
-</a>
-<br />
-
-<br />
-17 mars 2010 à 19h à La Menuiserie de Clécy 
+    <a href="{{page.poster-link}}">
+        <img src="{{page.poster}}" style="width: 200px;" />
+    </a>
+    <br />
+    <br />
+    17 mars 2010 à 19h à La Menuiserie de Clécy 
 </div>
 
 <span style="display: block; width: 100%; border-bottom: 2px solid #dfdfdf" >
-&nbsp;
+    &nbsp;
 </span>
 
 
