@@ -19,7 +19,7 @@ permalink: /themes/
 - Expérience municipales
   - Démocratie participative
     - [Prendre le pouvoir pour le partager : l’expérience de Saillans](https://www.youtube.com/watch?v=0aJphwiaoNk)
-  - Autres expériences municipale
+  - Autres expériences municipales
     - [Une cantine bio à Mouans-Sartoux](https://www.youtube.com/watch?v=Yfy4xgSCI30)
     - [Une autre cantine bio à Langouët](https://www.youtube.com/watch?v=YqC2w3Q1jKM)
   
