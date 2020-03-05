@@ -34,7 +34,7 @@ communauté de commune, département, région, etc...
 
 - Désenclaver la Suisse-Normande en développant des bus verts peu coûteux, voire subventionnés...
 
-- Favoriser l’alimentaire bio et/ou local  en mettant à disposition des populations des produits à faible impact carbone parce que locaux et transportés sur des distances beaucoup plus courtes (monter des marchés bio locaux, des systèmes de distribution en circuits cours, etc...)
+- Favoriser l’alimentaire bio et/ou local en mettant à disposition des populations des produits à faible impact carbone parce que locaux et transportés sur des distances beaucoup plus courtes (monter des marchés bio locaux, des systèmes de distribution en circuits cours, etc...)
 
 - Favoriser l’émergence d’une/de ferme(s) communale(s) pour alimenter
 les cantines scolaires.
