@@ -37,7 +37,8 @@ Avec en particulier une incitation à consulter sur ce site la rubrique « qui s
 
 {% include youtube.html id="BXHH8K3YeAk"%}
 
+#### 6. Des idées de projet à présenter pour aider nos élus ruraux (à débattre dans le cadre de l’Apéro philo)
 
-#### 6. Consulter les thèmes suivants :
+#### 7. Consulter les thèmes suivants :
 
 Voir sous [démocratie participative](/themes) et sous [expériences municipales](/themes).
