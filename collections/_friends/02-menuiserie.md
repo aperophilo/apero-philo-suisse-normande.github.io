@@ -14,5 +14,7 @@ Les jeunes africains, justement, pratiquent, loin des bobos et gogos fortunés, 
 
 La menuiserie propose également un vide-atelier ayant pour but de libérer de la place. Ce sont des œuvres déjà anciennes permettant notamment de découvrir l’art africain ou de commencer une collection à petits prix.
 
+La Menuiserie accueillera le 17 mars 2020 la deuxième session de l'Apéro philo itinérant en Suisse Normande toujours sur le même thème du changement climatique mais avec la question suivante posée : C'est les municipales : qu'est-ce qu'on fait ? Venez nombreux avec éventuellement de quoi grignoter ou vous rafraîchir, si possible en ayant pris connaissance des documents mis sur le site de l'Apéro philo à l'adresse suivante :  https://apero-philo-suisse-normande.github.io/
+
 Contact : 02 31 78 34 89 
 Site : [www.kalbassartactuel.com](http://www.kalbassartactuel.com)
