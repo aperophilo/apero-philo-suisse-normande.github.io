@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Des idées de projet à présenter pour aider nos élus ruraux (à débattre dans le cadre de l’Apéro philo)
+title: Des idées de projets à présenter pour aider nos élus ruraux (à débattre dans le cadre de l’Apéro philo)
 date: 2020-01-31
 
 ---
