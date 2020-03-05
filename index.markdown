@@ -48,4 +48,6 @@ poster-link: documents/affiche-menuiserie.pdf
 
 #### Nos lieux de rendez-vous
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/aperos_408424?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false#10/48.9369/-0.4611"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1Sz1Nmf_7TPR0U_9I38ibaWORKldcducH&z=10" width="100%" height="480"></iframe>
+
+<!-- <iframe class="map" width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/aperos_408424?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=false&onLoadPanel=undefined&captionBar=false#10/48.9369/-0.4611"></iframe> -->

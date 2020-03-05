@@ -1,3 +1,21 @@
+.logo {
+  float: left;
+  width: 50px;
+  margin: 5px;
+}
+
+.picture {
+  float: right;
+  width: 150px;
+  margin: 5px;
+  z-index: -1;
+}
+
+.map {
+  @include media-query($on-palm) {
+    visibility: hidden;
+  }
+}
 /**
  * Site header
  */
