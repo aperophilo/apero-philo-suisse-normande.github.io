@@ -39,6 +39,8 @@ Avec en particulier une incitation à consulter sur ce site la rubrique « qui s
 
 #### 6. Des idées de projet à présenter pour aider nos élus ruraux (à débattre dans le cadre de l’Apéro philo)
 
+- [Rapport de l'OCDE sur la croissance mondiale du 2 mars 2020](./ocde-croissance.html)
+
 #### 7. Consulter les thèmes suivants :
 
 Voir sous [démocratie participative](/themes) et sous [expériences municipales](/themes).
