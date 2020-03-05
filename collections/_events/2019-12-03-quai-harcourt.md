@@ -121,7 +121,7 @@ d'achat\... La fonte des calottes polaires va produire d'autres drames
 avec la modification des courants transocéaniques, notamment la
 disparition du gulf stream et la fin de l'Europe tempérée.
 Paradoxalement, une nouvelle période de glaciation attend l'Europe qui
-ne pourra plus nourrir alors les européens. Nous allons donc assister à
+ne pourra plus alors nourrir les européens. Nous allons donc assister à
 une inversion des flux migratoires vers le sud\... Comment serons nous
 alors accueillis ?
 
