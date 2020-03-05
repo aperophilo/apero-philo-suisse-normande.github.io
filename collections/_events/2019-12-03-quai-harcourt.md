@@ -98,7 +98,7 @@ moyenne mondiale d'ici la fin du présent siècle est quasiment acquise...
 Je vous laisse imaginer ce que voudrait dire un arrêt de la croissance
 alors même que de simples ralentissements ont déjà entraîné la
 multiplication des révoltes type printemps arabes, Brexit, gilets jaunes
-en France, élection de Trump aus Etats Unis, explosion du terrorisme,
+en France, élection de Trump aux Etats Unis, explosion du terrorisme,
 crises en amérique latine (Equateur, Chili, Bolivie, Argentine,
 notamment), au Moyen Orient (Liban, etc\...), dans la France d'outre-mer
 (Mayotte, La Réunion\...)\...
