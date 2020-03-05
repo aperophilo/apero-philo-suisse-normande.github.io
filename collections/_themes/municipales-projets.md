@@ -26,7 +26,7 @@ Exemples possibles :
 enfants pourraient ainsi entraîner leurs parents.
 
 - Encourager les mobilités douces (vélos et vélos électriques, covoiturage actuellement pas assez développé du fait notamment d’une
-méconnaissance des plateformes (La Roue Verte, Blabla lines, etc...).
+méconnaissance des plateformes comme La Roue Verte, Blabla lines, etc...).
 
 - Développer la production d’une électricité communale pour notamment tous les projets impactant favorablement le budget communal,
 notamment, via des panneaux solaires sur les bâtiments communaux, les églises. Pour cela, chercher les aides budgétaires mutualisés :
