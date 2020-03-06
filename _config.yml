@@ -21,8 +21,9 @@
 lang: FR-fr
 #logo: /assets/logo_phi.png
 title: Apéro-Philo en Suisse-Normande
+description: Temps d'échange convivial et de débat
 email: apero.philo.suisse.normande@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+footer_text: >- # this means to ignore newlines until "baseurl:"
    Vous avez la possibilité de nous proposer des sujets, documents, vidéos, articles, revues, 
    livres, que le collectif pourra mettre en ligne en fonction des évènements de l’Apéro philo.
    Pour cela, merci d'utiliser l'adress e-email ou la page facebook.
