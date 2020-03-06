@@ -38,7 +38,7 @@ poster-link: documents/affiche-menuiserie.pdf
     <br /><br />
     <div style="">
         <a href="{{page.poster-link}}">
-            <img src="{{page.poster}}" style="" />
+            <img data-src="{{page.poster}}" class="lazyload" alt=""/>
         </a>
         <br />
         <!-- 17 mars 2010 à 19h à La Menuiserie de Clécy  -->
@@ -49,5 +49,5 @@ poster-link: documents/affiche-menuiserie.pdf
     <h2>
         Nos lieux de rendez-vous
     </h2>
-    <iframe src="https://www.google.com/maps/d/embed?mid=1Sz1Nmf_7TPR0U_9I38ibaWORKldcducH&z=10" width="100%" height="480"></iframe>
+    <iframe data-src="https://www.google.com/maps/d/embed?mid=1Sz1Nmf_7TPR0U_9I38ibaWORKldcducH&z=10" class="lazyload" width="100%" height="480"></iframe>
 </div>

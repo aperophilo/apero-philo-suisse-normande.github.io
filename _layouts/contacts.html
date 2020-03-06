@@ -6,7 +6,7 @@ layout: page
     {%- for member in site.members -%}
 
     {% if member.picture %}
-    <img src="{{ member.picture | relative_url }}" class="picture"/>
+    <img data-src="{{ member.picture | relative_url }}" class="lazyload picture" />
     {% else %}
     <img src="https://eu.ui-avatars.com/api/?name={{ member.firstname }}+{{ member.lastname}}" class="logo" />
     {% endif %}
