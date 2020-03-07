@@ -135,7 +135,7 @@ fécondité, en 2050, selon une étude de l'ONU, ils seront 80 millions et,
 à la fin du siècle, environ 200 millions dans un pays grand comme un peu
 plus de 2 fois la France et semi-désertique\... Si le taux de fécondité
 restait le même qu'aujourd'hui, alors ils pourraient être environ 1
-milliard en 2100\... Ce petit pays talonnerait à lui seul la Chine et
+milliard en 2100\... Ce petit pays talonnerait à lui seul la Chine ou
 l'Inde\...
 
 Tout cela dit pour essayer de cerner les enjeux auxquels notre planète
