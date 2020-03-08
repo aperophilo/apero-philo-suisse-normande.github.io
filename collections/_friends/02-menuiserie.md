@@ -4,7 +4,7 @@ title: La Menuiserie
 
 ---
 
-L’association Kalbass’art, qui fait la promotion de la culture africaine contemporaine est installé, dans les bâtiments de l’ancienne menuiserie de Clécy, transformés en centre d’art. 
+L’association Kalbass’art, qui fait la promotion de la culture africaine contemporaine est installée, dans les bâtiments de l’ancienne menuiserie de Clécy, transformés en centre d’art. 
 
 Dans ce lieu de culture, on y cotoie notamment des slameurs, des musiciens, de la pyrotechnie, et plus généralement tous les arts contemporains et bientôt l’Apéro philo itinérant en Suisse Normande. 
 
