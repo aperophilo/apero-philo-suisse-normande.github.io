@@ -4,7 +4,7 @@ title: L'Épicerie du Coing
 
 ---
 
-Implanté dans le centre-ville de Pont-d’Ouilly, Nicolas et Ruta Duval se sont lancés
+Implantés dans le centre-ville de Pont-d’Ouilly, Nicolas et Ruta Duval se sont lancés
 dans l’aventure d’une épicerie de saison, essentiellement en produits bio et locaux,
 donc en circuits courts.
 L’intérieur du magasin a été entièrement rénové, la caisse est en bois de palettes
