@@ -11,4 +11,3 @@ Il y a une partie café qui permet de se restaurer et une partie épicerie avec 
 Le café-épicerie est ouvert en semaine ainsi que le week-end. Escale sur la Voie verte le Quai d’Harcourt est un lieu de rencontre et d’échange pour boire un café, manger un morceau, faire quelques courses, s’informer sur les manifestations et événements organisés sur le territoire comme l’Apéro philo itinérant en Suisse Normande, participer à un atelier thématique ou tout simplement rompre avec la solitude.
 
 Contact : quaidharcourt@gmail.com
-
