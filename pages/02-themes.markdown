@@ -22,7 +22,7 @@ permalink: /themes/
   - Autres expériences municipales
     - [Une cantine bio à Mouans-Sartoux](https://www.youtube.com/watch?v=Yfy4xgSCI30)
     - [Une autre cantine bio à Langouët](https://www.youtube.com/watch?v=YqC2w3Q1jKM)
-  
+    - [Présentation courte Kingersheim - portrait du maire](https://www.youtube.com/watch?v=whJ2NGgFwcs)  
 
 - Vivre ensemble
   - Les ressorts qui nous animent
